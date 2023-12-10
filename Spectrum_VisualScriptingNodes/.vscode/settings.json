@@ -51,5 +51,6 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Spectrum_VisualScriptingNodes.sln"
+    "dotnet.defaultSolution": "Spectrum_VisualScriptingNodes.sln",
+    "dotnet.preferCSharpExtension": true
 }
