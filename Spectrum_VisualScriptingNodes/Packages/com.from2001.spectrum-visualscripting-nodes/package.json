@@ -1,6 +1,6 @@
 {
     "name": "com.from2001.spectrum-visualscripting-nodes",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "displayName": "Spectrum Visual Scripting Nodes",
     "description": "Unity Visual Scripting node library for audio spectrum analyzer",
     "unity": "2021.3",
